@@ -1,0 +1,1 @@
+particlesJS.load("showcase__card-hero", "/particles/particles.json");
